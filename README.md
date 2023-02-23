@@ -8,7 +8,7 @@ Eric Seymour and Michael Nunno
 
 **Final Output: Printing out a statement that states your name and age.**
 
-#### Getting Started
+#### Getting Started/Installation
 1. Log into SCI JupyterHub and start a terminal
 2. Type in 'git clone https://github.com/SeymourEric/version-control-lab.git' and hit the enter key
 3. This should download a folder to our JupyterHub with the file (should be called 'version-control-lab')
