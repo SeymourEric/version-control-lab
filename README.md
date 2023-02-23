@@ -17,5 +17,5 @@ Eric Seymour and Michael Nunno
 * 
 
 ###### Why This License and CoC
-* We chose to use the Academic Free License Version 3.0 because it allows our code to be "open source," but still gives us as the creators the credit
+* We chose to use the Academic Free License Version 3.0 because it allows our code to be "open source," but still gives us as the creators the credit. It allows people to freely make their own edits to their own version of our program. They can distribute and market it but we are ultimately the creators. We are also not liable for anything they do.
 * 
