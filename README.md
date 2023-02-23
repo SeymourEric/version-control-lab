@@ -4,8 +4,7 @@
 Eric Seymour and Michael Nunno
 
 ### Usage Documentation
-**Usage: input a name and a number to indicate age.
-Final: Printing out a statement that states your name and age.**
+**Usage: input a name and a number to indicate age. _Final: Printing out a statement that states your name and age.**
 
 #### Getting Started
 1. Log into SCI JupyterHub and start a terminal
